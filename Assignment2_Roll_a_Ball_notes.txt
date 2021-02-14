@@ -1,0 +1,7 @@
+Additions:
+-oversize ball (x)
+-pause game (x)
+-three scenes (x)
+-slider for game speed (x)
+-different colors for ball using dropdown (x)
+
